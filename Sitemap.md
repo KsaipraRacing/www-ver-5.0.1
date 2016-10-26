@@ -1,0 +1,3 @@
+- [] The Front-page
+- [] Fundraising
+- [] Devotions
